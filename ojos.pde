@@ -35,15 +35,15 @@ class ojos {
     push();
     //fill(0);
     fill(colorOjos[queColorOjos]);
-    circle(310, 280, 80);
-    circle(495, 280, 80);
+    circle(320, 300, 70);
+    circle(485, 300, 70);
     fill(0);
-    circle(310, 280, 50);
-    circle(495, 280, 50);
+    circle(320, 300, 40);
+    circle(485, 300, 40);
     
     fill(255);
-    circle(300, 270, 20);
-    circle(485, 270, 20);
+    circle(310, 290, 20);
+    circle(475, 290, 20);
     pop();
   }
 }
